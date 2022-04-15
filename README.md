@@ -40,6 +40,7 @@ In this game the "RED" player starts off first.
 * Make it mobile ready.
 * Make game board more appealing.
 * Alot more flashiness.
+* Win/Lose Animation
 
 
 ### Links:
